@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prrrri // Oi, eu sou a Pri!
 - 😄 Pronouns: she/her // Pronomes: ela/dela
 - 🐤 I’m currently learning Java at Generation Brazil
-- ☕: Estou iniciando meus estudos em Java no bootcamp da Generation Brasil
+- ☕: Estou aprofundando meus estudos em Java no bootcamp da Generation Brasil
 - 📫 How to reach me // Quer tc? igarashipuri@gmail.com
 
 My professional background is in communication and marketing, both fields that I'm passionate about. 
