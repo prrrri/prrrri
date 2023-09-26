@@ -10,12 +10,12 @@ I'm excited to blend my technical skills with these interests and I'm looking fo
 SKILLS
 
 I have experience with:
-HTML: Crafting user-friendly web interfaces using HTML.
-CSS: Creating visually appealing web designs with CSS.
-Java: Developing applications with Java.
-Spring Boot: Building robust and scalable Java applications using the Spring Boot framework.
-MySQL: Managing and optimizing databases with MySQL.
-Scrum: I'm learning and applying the Scrum methodology for agile project management in my work.
+- HTML: Crafting user-friendly web interfaces using HTML.
+- CSS: Creating visually appealing web designs with CSS.
+- Java: Developing applications with Java.
+- Spring Boot: Building robust and scalable Java applications using the Spring Boot framework.
+- MySQL: Managing and optimizing databases with MySQL.
+- Scrum: I'm learning and applying the Scrum methodology for agile project management in my work.
 
 ![Prrrri's GitHub stats](https://github-readme-stats.vercel.app/api?username=prrrri&show_icons=true&bg_color=00000000)
 
