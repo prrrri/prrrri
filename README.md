@@ -13,6 +13,7 @@ I have experience with:
 - HTML: Crafting user-friendly web interfaces using HTML.
 - CSS: Creating visually appealing web designs with CSS.
 - JavaScript: Developing interactive web applications with JavaScript.
+- TypeScript: Building robust and maintainable web applications with TypeScript.
 - React: Building modern and dynamic user interfaces with React.
 - Java: Developing applications with Java.
 - Spring Boot: Building robust and scalable Java applications using the Spring Boot framework.
